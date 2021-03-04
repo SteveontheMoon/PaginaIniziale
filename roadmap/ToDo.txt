@@ -1,0 +1,4 @@
+- separate links (so they can be quickly editable)
+- direct link with PDF
+- live updater for covid-19
+- 
