@@ -2,3 +2,17 @@
 - direct link with PDF
 - live updater for covid-19
 - 
+
+
+Editing mode:
+- bottone in basso per avviare modalita Editing
+- possibilita di cambiare lo sfondo
+- comparsma bottone " + " aggiungi sotto ogni sezione
+- simbolo modifica per ogni link
+- simbolo imposta colore per tutto il gruppo
+- 
+
+    altre cose piu avanti:
+    - modifica singolo colore
+    - elenco lettura per safari
+    - iCloud Tab
